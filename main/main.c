@@ -2,5 +2,5 @@
 
 void app_main(void)
 {
-    printf("uwu 2");
+    printf("uwu 2 uwu");
 }
